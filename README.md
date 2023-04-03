@@ -11,4 +11,4 @@
 ## 3. 组合图表
 将2017-2021年全国各地的高考人数用timeline和map展示出来
 
-[组合图标](https://qihaiqianqiu0314.github.io/2017-2021年全国各地高考人数.html)
+[组合图表](https://qihaiqianqiu0314.github.io/2017-2021年全国各地高考人数.html)
