@@ -7,5 +7,5 @@
 ## 2. 水浒传的人物共现分析图
 对水浒传的人物共现次数进行了分析，并用pychart的方式展现出来
 
-[地图链接](https://qihaiqianqiu0314.github.io/关系图-水浒传人物.html)
+[链接2](https://qihaiqianqiu0314.github.io/关系图-水浒传人物.html)
 
