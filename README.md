@@ -20,6 +20,6 @@
 
 [链接1](https://qihaiqianqiu0314.github.io/关系图-水浒传人物.html)
 ## 2. 作业二
-搜索引擎(不知道为什么，不支持中文）
+搜索引擎
 
 [链接2](https://qihaiqianqiu0314.github.io/bing搜索.html)
